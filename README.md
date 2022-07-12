@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DRAGON BALL SUPER" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DRAGON BALL SUPER
 http://xdgo.live:8080/elchofercitocarretero/BqnPrcrLdp/23905
 
